@@ -1,0 +1,50 @@
+2023-08-25T00:04:36+00:00 CRITICAL Uncaught Error: Call to undefined function wc_create_product() in /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/form.php:31
+Stack trace:
+#0 /home/y/yousite/dev.yousite.agency/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/y/yousite/dev.yousite.agency/public_html/wp-blog-header.php(19): require_once('/home/y/yousite...')
+#2 /home/y/yousite/dev.yousite.agency/public_html/index.php(17): require('/home/y/yousite...')
+#3 {main}
+  thrown в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/form.php на строке 31
+
+2023-08-25T14:39:43+00:00 CRITICAL syntax error, unexpected ')' в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 307
+
+2023-08-25T14:41:11+00:00 CRITICAL Uncaught Error: Call to undefined function media_handle_upload() in /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php:307
+Stack trace:
+#0 [internal function]: add_product_from_frontend('')
+#1 /home/y/yousite/dev.yousite.agency/public_html/wp-includes/class-wp-hook.php(310): call_user_func_array('add_product_fro...', Array)
+#2 /home/y/yousite/dev.yousite.agency/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 /home/y/yousite/dev.yousite.agency/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/y/yousite/dev.yousite.agency/public_html/wp-settings.php(632): do_action('init')
+#5 /home/y/yousite/dev.yousite.agency/public_html/wp-config.php(95): require_once('/home/y/yousite...')
+#6 /home/y/yousite/dev.yousite.agency/public_html/wp-load.php(50): require_once('/home/y/yousite...')
+#7 /home/y/yousite/dev.yousite.agency/public_html/wp-blog-header.php(13): require_once('/home/y/yousite...')
+#8 /home/y/yousite/de в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 307
+
+2023-08-25T15:07:10+00:00 CRITICAL Uncaught Error: Call to undefined function media_handle_upload() in /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php:307
+Stack trace:
+#0 [internal function]: add_product_from_frontend('')
+#1 /home/y/yousite/dev.yousite.agency/public_html/wp-includes/class-wp-hook.php(310): call_user_func_array('add_product_fro...', Array)
+#2 /home/y/yousite/dev.yousite.agency/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 /home/y/yousite/dev.yousite.agency/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/y/yousite/dev.yousite.agency/public_html/wp-settings.php(632): do_action('init')
+#5 /home/y/yousite/dev.yousite.agency/public_html/wp-config.php(95): require_once('/home/y/yousite...')
+#6 /home/y/yousite/dev.yousite.agency/public_html/wp-load.php(50): require_once('/home/y/yousite...')
+#7 /home/y/yousite/dev.yousite.agency/public_html/wp-blog-header.php(13): require_once('/home/y/yousite...')
+#8 /home/y/yousite/de в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 307
+
+2023-08-25T15:15:18+00:00 CRITICAL Uncaught Error: Call to undefined function wc_create_product_thumbnail() in /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php:300
+Stack trace:
+#0 [internal function]: handle_product_submission('')
+#1 /home/y/yousite/dev.yousite.agency/public_html/wp-includes/class-wp-hook.php(310): call_user_func_array('handle_product_...', Array)
+#2 /home/y/yousite/dev.yousite.agency/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#3 /home/y/yousite/dev.yousite.agency/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/y/yousite/dev.yousite.agency/public_html/wp-settings.php(632): do_action('init')
+#5 /home/y/yousite/dev.yousite.agency/public_html/wp-config.php(95): require_once('/home/y/yousite...')
+#6 /home/y/yousite/dev.yousite.agency/public_html/wp-load.php(50): require_once('/home/y/yousite...')
+#7 /home/y/yousite/dev.yousite.agency/public_html/wp-blog-header.php(13): require_once('/home/y/yousite...')
+#8 /home/y/yo в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 300
+
+2023-08-25T18:04:11+00:00 CRITICAL syntax error, unexpected 'save' (T_STRING), expecting ';' or ',' в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 341
+
+2023-08-25T18:25:04+00:00 CRITICAL syntax error, unexpected 'save' (T_STRING), expecting ';' or ',' в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 352
+

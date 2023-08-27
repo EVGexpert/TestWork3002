@@ -1,0 +1,40 @@
+2023-08-24T09:36:48+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 123
+
+2023-08-24T09:48:20+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 271
+
+2023-08-24T09:48:22+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 271
+
+2023-08-24T09:48:22+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 271
+
+2023-08-24T09:48:35+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 271
+
+2023-08-24T09:51:09+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 124
+
+2023-08-24T09:51:10+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 124
+
+2023-08-24T09:51:10+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 124
+
+2023-08-24T09:51:12+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 124
+
+2023-08-24T09:51:12+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 124
+
+2023-08-24T09:52:37+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 124
+
+2023-08-24T09:54:38+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 124
+
+2023-08-24T09:56:39+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 124
+
+2023-08-24T23:31:33+00:00 CRITICAL syntax error, unexpected '$error_pweight' (T_VARIABLE) в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 313
+
+2023-08-24T23:32:15+00:00 CRITICAL syntax error, unexpected '$error_pweight' (T_VARIABLE) в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 313
+
+2023-08-24T23:32:41+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php:333
+Stack trace:
+#0 /home/y/yousite/dev.yousite.agency/public_html/wp-settings.php(600): include()
+#1 /home/y/yousite/dev.yousite.agency/public_html/wp-config.php(95): require_once('/home/y/yousite...')
+#2 /home/y/yousite/dev.yousite.agency/public_html/wp-load.php(50): require_once('/home/y/yousite...')
+#3 /home/y/yousite/dev.yousite.agency/public_html/wp-admin/admin.php(34): require_once('/home/y/yousite...')
+#4 /home/y/yousite/dev.yousite.agency/public_html/wp-admin/theme-editor.php(10): require_once('/home/y/yousite...')
+#5 {main}
+  thrown в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 333
+

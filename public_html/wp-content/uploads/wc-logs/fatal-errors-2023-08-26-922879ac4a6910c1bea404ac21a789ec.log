@@ -1,0 +1,68 @@
+2023-08-26T08:27:33+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_wp_select() in /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/form.php:27
+Stack trace:
+#0 /home/y/yousite/dev.yousite.agency/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/y/yousite/dev.yousite.agency/public_html/wp-blog-header.php(19): require_once('/home/y/yousite...')
+#2 /home/y/yousite/dev.yousite.agency/public_html/index.php(17): require('/home/y/yousite...')
+#3 {main}
+  thrown в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/form.php на строке 27
+
+2023-08-26T08:38:21+00:00 CRITICAL syntax error, unexpected '').text('' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 349
+
+2023-08-26T18:05:48+00:00 CRITICAL Uncaught Error: Call to undefined function media_handle_upload() in /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/form.php:64
+Stack trace:
+#0 /home/y/yousite/dev.yousite.agency/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/y/yousite/dev.yousite.agency/public_html/wp-blog-header.php(19): require_once('/home/y/yousite...')
+#2 /home/y/yousite/dev.yousite.agency/public_html/index.php(17): require('/home/y/yousite...')
+#3 {main}
+  thrown в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/form.php на строке 64
+
+2023-08-26T18:23:40+00:00 CRITICAL Uncaught Error: Call to undefined function media_handle_upload() in /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/form.php:64
+Stack trace:
+#0 /home/y/yousite/dev.yousite.agency/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/y/yousite/dev.yousite.agency/public_html/wp-blog-header.php(19): require_once('/home/y/yousite...')
+#2 /home/y/yousite/dev.yousite.agency/public_html/index.php(17): require('/home/y/yousite...')
+#3 {main}
+  thrown в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/form.php на строке 64
+
+2023-08-26T19:00:31+00:00 CRITICAL Uncaught Error: Call to undefined function media_handle_upload() in /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/form.php:64
+Stack trace:
+#0 /home/y/yousite/dev.yousite.agency/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/y/yousite/dev.yousite.agency/public_html/wp-blog-header.php(19): require_once('/home/y/yousite...')
+#2 /home/y/yousite/dev.yousite.agency/public_html/index.php(17): require('/home/y/yousite...')
+#3 {main}
+  thrown в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/form.php на строке 64
+
+2023-08-26T19:16:32+00:00 CRITICAL syntax error, unexpected '{', expecting '(' в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 323
+
+2023-08-26T19:17:27+00:00 CRITICAL syntax error, unexpected 'publish' (T_STRING), expecting ';' or ',' в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 332
+
+2023-08-26T19:39:41+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/functions.php на строке 346
+
+2023-08-26T20:08:51+00:00 CRITICAL syntax error, unexpected '<', expecting end of file в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/form.php на строке 61
+
+2023-08-26T20:09:00+00:00 CRITICAL syntax error, unexpected '<', expecting end of file в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/form.php на строке 61
+
+2023-08-26T20:10:32+00:00 CRITICAL Uncaught Error: Call to undefined function wp_handle_upload() in /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/form.php:67
+Stack trace:
+#0 /home/y/yousite/dev.yousite.agency/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/y/yousite/dev.yousite.agency/public_html/wp-blog-header.php(19): require_once('/home/y/yousite...')
+#2 /home/y/yousite/dev.yousite.agency/public_html/index.php(17): require('/home/y/yousite...')
+#3 {main}
+  thrown в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/form.php на строке 67
+
+2023-08-26T20:11:17+00:00 CRITICAL Uncaught Error: Call to undefined function wp_handle_upload() in /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/form.php:67
+Stack trace:
+#0 /home/y/yousite/dev.yousite.agency/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/y/yousite/dev.yousite.agency/public_html/wp-blog-header.php(19): require_once('/home/y/yousite...')
+#2 /home/y/yousite/dev.yousite.agency/public_html/index.php(17): require('/home/y/yousite...')
+#3 {main}
+  thrown в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront-child/form.php на строке 67
+
+2023-08-26T20:18:07+00:00 CRITICAL Uncaught Error: Call to undefined function wp_handle_upload() in /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront/image_upl.php:8
+Stack trace:
+#0 /home/y/yousite/dev.yousite.agency/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/y/yousite/dev.yousite.agency/public_html/wp-blog-header.php(19): require_once('/home/y/yousite...')
+#2 /home/y/yousite/dev.yousite.agency/public_html/index.php(17): require('/home/y/yousite...')
+#3 {main}
+  thrown в /home/y/yousite/dev.yousite.agency/public_html/wp-content/themes/storefront/image_upl.php на строке 8
+
